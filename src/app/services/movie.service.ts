@@ -15,10 +15,6 @@ export enum SearchType {
   providedIn: 'root'
 })
 
-
-// http://www.omdbapi.com/?s=casa&type=movie&apikey=72b5e916
-//OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=72b5e916
-
 export class MovieService {
   //url = 'http://www.omdbapi.com/';
   //url = 'http://localhost/api/book/';
